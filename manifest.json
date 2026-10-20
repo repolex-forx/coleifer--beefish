@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "coleifer",
+  "repo": "beefish",
+  "versions": [
+    {
+      "commit": "f63b808c20599a75b761d9881dc84394ab5bad9f",
+      "parsed_at": "2026-10-20T20:42:47.497209+00:00",
+      "filetree": "filetree/f63b808c20599a75b761d9881dc84394ab5bad9f.nq.gz",
+      "blobs": [
+        "blob/c752ab3ead2e7be324e5cafb5e1d53135c16af13.nq.gz",
+        "blob/9d5d250d095009403f66851f48866f5cfe39703b.nq.gz",
+        "blob/a64c9fd251d4af08eada1def1cd2d56af71781b7.nq.gz",
+        "blob/384a9a30b911429fdf8a7b71ea3dae2087730a6a.nq.gz",
+        "blob/650c0ccc03b83b23874bdd3c3295021b18bc4a48.nq.gz",
+        "blob/6c57dc1f050119b31ece1f045cdcfb911493aeb1.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
