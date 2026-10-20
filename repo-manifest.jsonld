@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/coleifer/beefish/commit/f63b808c20599a75b761d9881dc84394ab5bad9f",
       "git:hexsha": "f63b808c20599a75b761d9881dc84394ab5bad9f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/coleifer/beefish/commit/7c86feb25b241fcae61b1e77eb1b484d7dc125b0",
